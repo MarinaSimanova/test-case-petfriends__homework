@@ -1,1 +1,1 @@
-# test-case-petfriends__homework
+# Тест-кейс карточки питомца сайта http://130.193.37.179/app/pets
